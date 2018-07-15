@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/rjsaving_demo/public/css/apidefault.css</file>
+            <file>file:/Z:/rjsaving_demo/resources/views/stock/stkup.blade.php</file>
+            <file>file:/Z:/rjsaving_demo/resources/views/auth/register.blade.php</file>
+            <file>file:/Z:/rjsaving_demo/resources/views/main.blade.php</file>
+            <file>file:/Z:/rjsaving_demo/resources/views/auth/register_main.blade.php</file>
+            <file>file:/Z:/rjsaving_demo/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/Z:/rjsaving_demo/resources/views/stock/stkup_main.blade.php</file>
+            <file>file:/Z:/rjsaving_demo/app/Http/Controllers/stkUpController.php</file>
+            <file>file:/Z:/rjsaving_demo/resources/views/layouts/layout.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
